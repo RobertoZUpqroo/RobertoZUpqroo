@@ -1,10 +1,9 @@
 <h1 align="center">Hello 👋, I'm Roberto Zetina</h1>
 <h3 align="center">I'm a passionate 23-year-old Software Engineering student based in Cancun, Quintana Roo, Mexico. I thrive in the world of technology and am constantly seeking opportunities to collaborate on projects that will enhance my skills and propel me forward. As a solid programmer, I specialize in building websites with a focus on crafting intuitive and appealing user experiences. I possess a knack for quick learning and am determined to continuously advance in my career. With skills spanning both front-end and back-end development, I consider myself a full-stack developer with a commitment to excellence and innovation. I'm excited about the future opportunities that will allow me to expand my knowledge and make meaningful contributions to the tech world. I look forward to connecting and collaborating with you soon!</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/roberto-zetina-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robertozetinadev" height="30" width="40" /></a>
-</p>
+<div align="left">
+  <a href="https://www.linkedin.com/in/roberto-zetina-dev"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /><a/>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -29,3 +28,12 @@
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
