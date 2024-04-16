@@ -1,12 +1,10 @@
 <h1 align="center">Hello 👋, I'm Roberto Zetina</h1>
 <p align="left">I'm a passionate 23-year-old Software Engineering student based in Cancun, Quintana Roo, Mexico. I thrive in the world of technology and am constantly seeking opportunities to collaborate on projects that will enhance my skills and propel me forward. As a solid programmer, I specialize in building websites with a focus on crafting intuitive and appealing user experiences. I possess a knack for quick learning and am determined to continuously advance in my career. With skills spanning both front-end and back-end development, I consider myself a full-stack developer with a commitment to excellence and innovation. I'm excited about the future opportunities that will allow me to expand my knowledge and make meaningful contributions to the tech world. I look forward to connecting and collaborating with you soon!</p>
 
-- 📫 How to reach me **robertozdev@gmail.com**
+- 📫 How to reach me robertozdev@gmail.com
 
 <div align="left">
   <a href="https://www.linkedin.com/in/roberto-zetina-dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /><a/>
-    <a href="https://discord.gg/694154411244781588" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="694154411244781588" height="30" width="40" />
-</a>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
