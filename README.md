@@ -1,12 +1,12 @@
 <h1 align="center">Hello 👋, I'm Roberto Zetina</h1>
-<h3 align="center">I'm a passionate 23-year-old Software Engineering student based in Cancun, Quintana Roo, Mexico. I thrive in the world of technology and am constantly seeking opportunities to collaborate on projects that will enhance my skills and propel me forward. As a solid programmer, I specialize in building websites with a focus on crafting intuitive and appealing user experiences. I possess a knack for quick learning and am determined to continuously advance in my career. With skills spanning both front-end and back-end development, I consider myself a full-stack developer with a commitment to excellence and innovation. I'm excited about the future opportunities that will allow me to expand my knowledge and make meaningful contributions to the tech world. I look forward to connecting and collaborating with you soon!</h3>
+<h3 align="left">I'm a passionate 23-year-old Software Engineering student based in Cancun, Quintana Roo, Mexico. I thrive in the world of technology and am constantly seeking opportunities to collaborate on projects that will enhance my skills and propel me forward. As a solid programmer, I specialize in building websites with a focus on crafting intuitive and appealing user experiences. I possess a knack for quick learning and am determined to continuously advance in my career. With skills spanning both front-end and back-end development, I consider myself a full-stack developer with a commitment to excellence and innovation. I'm excited about the future opportunities that will allow me to expand my knowledge and make meaningful contributions to the tech world. I look forward to connecting and collaborating with you soon!</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/roberto-zetina-dev" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /><a/>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="center"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> 
